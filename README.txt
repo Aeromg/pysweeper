@@ -1,4 +1,4 @@
-usage: sweeper [-h] [-r] [-b] [-f] [-l] [-s] [-d] [-e] [-v] [-m SECONDS]
+usage: sweep [-h] [-r] [-b] [-f] [-l] [-s] [-d] [-e] [-v] [-m SECONDS]
                [-a SECONDS] -p PATH [-t REGEX]
 
 collect outdated files and folders.
